@@ -8,6 +8,7 @@ const translations = {
     nav_contact: "Contact",
     hero_status: "Open to remote web development opportunities",
     hero_name: "Viktoriia Prisna",
+    brand_name: "Viktoriia Prisna",
     hero_role: "Junior Full-Stack Web Developer",
     hero_intro:
       "Web developer with 2+ years of hands-on experience across business, academic and portfolio projects. I build, maintain and improve responsive websites and web applications with a strong focus on front-end development, web maintenance, SEO, e-commerce and reliable digital workflows.",
@@ -101,7 +102,8 @@ const translations = {
     nav_experience: "Досвід",
     nav_contact: "Контакти",
     hero_status: "Відкрита до віддалених вакансій у web development",
-    hero_name: "Viktoriia Prisna",
+    hero_name: "Вікторія Прісна",
+    brand_name: "Вікторія Прісна",
     hero_role: "Junior Full-Stack Web Developer",
     hero_intro:
       "Web developer із 2+ роками практичного досвіду в бізнесових, навчальних і портфоліо-проєктах. Створюю, підтримую та покращую адаптивні сайти й вебзастосунки з акцентом на front-end development, web maintenance, SEO, e-commerce та надійні digital workflows.",
